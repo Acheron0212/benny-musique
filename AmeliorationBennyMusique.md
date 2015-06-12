@@ -1,0 +1,11 @@
+Amélioration benny-musique
+
+Version 1
+
+
+- Incorporer un système de boucle pour la playlist (aussi répéter une seule fois)
+- Edition des tags des fichiers musicaux
+- Système de playlists multiples avec pourquoi pas des onglets pour naviger entre elles
+
+optionnel:
+- Faire un système de librairie pour l'ensemble des fichiers musicaux de l'ordinateur

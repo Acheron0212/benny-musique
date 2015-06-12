@@ -1,0 +1,1 @@
+Lecteur de musique en C++ utilisant exclusivement QT et son module Phonon permettant de faire abstraction des fonctionnalités audios matériel/logiciel.
